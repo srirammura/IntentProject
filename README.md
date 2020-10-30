@@ -71,7 +71,7 @@ docker-compose up
 }
 ```
 
-# Docker Image Size  = 437 MB
+# Docker Image Size  = 969 MB
 
 # References
 
